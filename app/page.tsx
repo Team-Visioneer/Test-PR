@@ -20,7 +20,11 @@ export default function Home() {
               src="/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
+<<<<<<< HEAD
               width={108}
+=======
+              width={1000}
+>>>>>>> 6eb36ae (Edit by Junbeom)
               height={24}
               priority
             />
@@ -53,7 +57,8 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
+            Find in-depth information about Next.js features and API. My name is
+            Junbeom!
           </p>
         </a>
 
@@ -70,7 +75,8 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
+            Learn about Next.js in an interactive course with&nbsp;quizzes! My
+            Name is Junbeom #4
           </p>
         </a>
 
