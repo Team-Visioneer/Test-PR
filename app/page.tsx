@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+// hello world hahaha
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -20,11 +20,7 @@ export default function Home() {
               src="/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
-<<<<<<< HEAD
-              width={108}
-=======
-              width={1000}
->>>>>>> 6eb36ae (Edit by Junbeom)
+              width={109}
               height={24}
               priority
             />
