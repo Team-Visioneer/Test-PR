@@ -16,8 +16,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+<<<<<<< HEAD
       <body className={inter.className}>{children}</body>
       변경사항
+=======
+      <body className={inter.className}>
+        {children}
+        Hi, Hello
+      </body>
+>>>>>>> 6eb36ae (Edit by Junbeom)
     </html>
   );
 }
